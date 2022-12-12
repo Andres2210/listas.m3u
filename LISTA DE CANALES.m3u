@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales", RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jjXxcZ0wMkQcvwocDkl4Y9jOQ7f.png" group-title="Cine", FOX PREMIUM ACTION
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.solintelsa.net/wp-content/uploads/2018/10/cinemax.jpg" group-title="Cine", CINEMAX
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvkEQdGo4OSXnRN7AN21tprgdU_ArP1dI_v9Y8WkQPUqHbXBX-9PBqzDzEU3Q9G0sQ81DoWTvy3JongJhxVoNs33myH4yKIYc5DKGhsj2apwBsSgLB_HgZAD5TEsjk5Ko6IGeXigKMIJ5aVXFlT1nvxKh_go5O-q5Xyyzu9xTkyQRGOeAJ9uVlFEHn5Mv6k4L-xhfrLoWg6U3IVcmRChzE9rh0oHajV7UQjj5aA-IA-cXdJuATS-rQYRQpX2KUKd3Ok0yBmPN-NOocoEELcHljieL56w7iTdXKDgwOgFW14jnib6U0iG6ZMoDY3JGccoqqCYf5S5Ssjw-ipaJM4Nwv16NxhuXN4DQotegIwEObpYP8HNMx3KFmBVxW436pFzqgwlhflTF0olFWgGG9Uv4w7B2bbuBUwbBohJnbjuRqRsu-4A2l-NYHopQxx7Y2B1lhdVCTSodDyOlxg6GB8BWsC6ddge8VVtdi5Fhxzwz8XxGByLJNSRWH85uFg9XLESd84xuvaM0ZQj44FtsfBKPWQUq7kmgduHsz-eFdx9xD9dqm52U17R6uCWtwa8Bei5B1OX3v-hgLogvzy7vFZirAvcZJ0wJo8AtaUrltRZHKHVpLKpN-lU09mOnNTcZv5Rnww-CWTaSda9sTUN14rr60SWlcwquJJkiAKMOThnTa3HdiuTg_CxdEdceRL4UMR7qeK8gtVInlJOcdZbQJUSckb8NCBtpNa2Wxjdi5M7x9hchaZt8qFoT8TKCEg0MOhL8gU_ivRpNFkr2VXXH3NIK6mTVhs74Winxo4wY7nO_oezbmhzNoIbykPVCmHlYAnh0vg7FjmSeCPy_xo3GgxVUlQG-YajDw7jBaggASoJZXUtd2VzdC0yMK8F.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg793L6h-MWzn1tXbX4nxwSooh1o8xeLo5TiTBDG4iICc4vqBPCzKSuBfsdYTQgu1Vg2Q&usqp=CAU" group-title="Nacionales", FOX SPORT MEXICO
+https://watch-online.49n7wqynho5u.top/qr-code/65/assets/alertmicrosoft1.mp3
+
+
